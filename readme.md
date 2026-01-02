@@ -43,6 +43,23 @@ ____
 lists can nest other lists,
 dictionary can nest dictionary, and lists
 
+**Decision Flow and Branching**
+If/else:
+```
+if(<condn>):
+    print("This is cond1)
+else:
+    print("This is cond2)
+```
 
+If/elif/else
+```
+if(<condn>):
+    print("This is cond1)
+elif:
+    print("This is elif)
+else:
+    print("This is else)
+```
 
 
