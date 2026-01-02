@@ -67,6 +67,16 @@ else:
 2. Infinite loops must be prevented
 3. Variable used for condition must be change inside the loop
 
+* For loop:
+```
+li = [a,b,c,d,e]
+for item in li:
+    print(item)
+    print(f"The item is {item}")
+```
 
-
-
+* 100 sequentially  
+```
+for i in range(start,stop, range):
+    statement
+```
