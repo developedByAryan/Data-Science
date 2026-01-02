@@ -44,7 +44,7 @@ lists can nest other lists,
 dictionary can nest dictionary, and lists
 
 **Decision Flow and Branching**
-If/else:
+* If/else:
 ```
 if(<condn>):
     print("This is cond1)
@@ -52,7 +52,7 @@ else:
     print("This is cond2)
 ```
 
-If/elif/else
+* If/elif/else
 ```
 if(<condn>):
     print("This is cond1)
@@ -61,5 +61,12 @@ elif:
 else:
     print("This is else)
 ```
+
+* While loop:
+1. Stopping condition should exist.
+2. Infinite loops must be prevented
+3. Variable used for condition must be change inside the loop
+
+
 
 
